@@ -60,7 +60,7 @@ const Header = () => {
                     <div className="nav_wrapper d-flex align-items-center justify-content-between">
                         {/* ========== logo start ========== */}
                         <div className="logo">
-                            <p>Trip plan</p>
+                            <a href='/'>Trip plan</a>
                         </div>
                         {/* ========== logo end ========== */}
 

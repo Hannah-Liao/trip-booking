@@ -57,7 +57,7 @@ const Testimonials = () => {
                 <div className="d-flex align-items-center gap-4 mt-3">
                     <img src={ava02} alt="" className='w-25 h-25 rounded-2' />
                     <div className="">
-                        <h6 className='mb-0 mt-3'>Lisa Doe</h6>
+                        <h6 className='mb-0 mt-3'>Lisa</h6>
                         <p>Customer</p>
                     </div>
                 </div>
@@ -69,43 +69,7 @@ const Testimonials = () => {
                 <div className="d-flex align-items-center gap-4 mt-3">
                     <img src={ava03} alt="" className='w-25 h-25 rounded-2' />
                     <div className="">
-                        <h6 className='mb-0 mt-3'>Jack Doe</h6>
-                        <p>Customer</p>
-                    </div>
-                </div>
-            </div>
-
-            <div className='testimonial py-3'>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt expedita cupiditate itaque eveniet soluta corporis, quidem inventore hic explicabo rerum. Accusamus magni fuga dicta aliquid modi amet ullam quis aliquam!</p>
-
-                <div className="d-flex align-items-center gap-4 mt-3">
-                    <img src={ava01} alt="" className='w-25 h-25 rounded-2' />
-                    <div className="">
-                        <h6 className='mb-0 mt-3'>John Doe</h6>
-                        <p>Customer</p>
-                    </div>
-                </div>
-            </div>
-
-            <div className='testimonial py-3'>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt expedita cupiditate itaque eveniet soluta corporis, quidem inventore hic explicabo rerum. Accusamus magni fuga dicta aliquid modi amet ullam quis aliquam!</p>
-
-                <div className="d-flex align-items-center gap-4 mt-3">
-                    <img src={ava02} alt="" className='w-25 h-25 rounded-2' />
-                    <div className="">
-                        <h6 className='mb-0 mt-3'>Lisa Doe</h6>
-                        <p>Customer</p>
-                    </div>
-                </div>
-            </div>
-
-            <div className='testimonial py-3'>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt expedita cupiditate itaque eveniet soluta corporis, quidem inventore hic explicabo rerum. Accusamus magni fuga dicta aliquid modi amet ullam quis aliquam!</p>
-
-                <div className="d-flex align-items-center gap-4 mt-3">
-                    <img src={ava03} alt="" className='w-25 h-25 rounded-2' />
-                    <div className="">
-                        <h6 className='mb-0 mt-3'>Jack Doe</h6>
+                        <h6 className='mb-0 mt-3'>Jack chou</h6>
                         <p>Customer</p>
                     </div>
                 </div>
